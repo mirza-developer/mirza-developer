@@ -1,4 +1,11 @@
 ### Hi there 👋
+.Net Developer from Tehran, Iran
+- 🔭 Current Position : Software development team Lead at <a href="https://avizhegroup.com/">TDA.co</a>
+- 🌱 I’m currently learning and Blazor WASM
+Love Football⚽ and Music🤘
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirza-developer&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark" />
+</p>
 
 <!--
 **mirza-developer/mirza-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
