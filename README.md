@@ -1,7 +1,7 @@
 ### Hi there 👋
 .Net Developer from Tehran, Iran
-- 🔭 Current Position : Software development team Lead at <a href="https://avizhegroup.com/">TDA.co</a>
-- 🌱 I’m currently learning Blazor WASM
+- 🔭 Current Position : Software development team Lead at Avizhegroup <a href="https://avizhegroup.com/"><img height="20" width="20" src="https://avatars.githubusercontent.com/u/105391219?s=200&v=4"/></a>
+- 🌱 I’m currently learning Blazor & MAUI 
 - 👯 Member of Bit foundation <a href="https://github.com/bitfoundation"><img height="20" width="20" src="https://avatars.githubusercontent.com/u/22663390?s=60&v=4"/></a>
 - Love Football⚽ and Music🤘
 - Wanna buy coffee for me? <a href="https://coffeebede.ir/artav">☕</a>
