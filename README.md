@@ -1,8 +1,9 @@
 ### Hi there 👋
 .Net Developer from Tehran, Iran
-- 🔭 Current Position : Software development team Lead at Avizhegroup <a href="https://avizhegroup.com/"><img height="20" width="20" src="https://avatars.githubusercontent.com/u/105391219?s=200&v=4"/></a>
-- 🌱 I’m currently learning Blazor & MAUI 
-- 👯 Member of Bit foundation <a href="https://github.com/bitfoundation"><img height="20" width="20" src="https://avatars.githubusercontent.com/u/22663390?s=60&v=4"/></a>
+- 🔭 Current Position : Software development team Lead at Avizhegroup <a href="https://avizhegroup.com/"><img height="20" width="20" src="https://avizhegroup.com/wp-content/uploads/2020/05/Logo-1-1.png"/></a>
+- Software developer at ICTAce <a href="https://avizhegroup.com/"><img height="20" width="20" src="https://ictace.com/Portals/0/ICTACE_Logo_64_Text.png?ver=n_l4TyitcjrPbwe8K8TGqQ%3d%3d"/></a>
+- 🌱 I’m currently working on Blazor & MAUI 
+- 👯 Previous member of Bit foundation <a href="https://github.com/bitfoundation"><img height="20" width="20" src="https://avatars.githubusercontent.com/u/22663390?s=60&v=4"/></a>
 - Love Football⚽ and Music🤘
 - Wanna buy coffee for me? <a href="https://coffeebede.ir/artav">☕</a>
 <p align="center">
